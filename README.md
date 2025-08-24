@@ -14,7 +14,7 @@ This project is an expense management system that consists of a Streamlit fronte
 
 1. **Clone the repository**:
     ```bash
-   git clone https://github.com/kvicky110202/expense-management-system.git
+   git clone https://github.com/kvicky110202/Expense-Tracking-System.git
    cd expense-management-system
     ```
    
@@ -33,3 +33,4 @@ This project is an expense management system that consists of a Streamlit fronte
    streamlit run frontend/app.py
 
    ```
+
